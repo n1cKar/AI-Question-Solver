@@ -6,7 +6,8 @@ A Next.js web application leveraging the Gemini API to provide advanced AI-power
 
 ## Table of Contents
 
-- [Overview](#overview)  
+- [Overview](#overview) 
+- [Images](#images) 
 - [Features](#features)  
 - [Demo](#demo)  
 - [Technology Stack](#technology-stack)  
@@ -29,6 +30,12 @@ Users can input questions or prompts, and the app returns:
 - Humanized, conversational-style responses
 
 ---
+
+## Images
+
+![1](./app_pics/1.png)
+![2](./app_pics/2.png)
+![3](./app_pics/3.png)
 
 ## Features
 
