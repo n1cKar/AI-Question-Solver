@@ -76,7 +76,7 @@ Add your live demo link here (if applicable):
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ai-question-solver.git
+git clone https://github.com/n1cKar/ai-question-solver.git
 cd ai-question-solver
 ```
 
